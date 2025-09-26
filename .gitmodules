@@ -1,3 +1,6 @@
 [submodule "Frontend"]
 	path = Frontend
 	url = git@github.com:SSking532/KANHA-CHAT-BOT.git
+[submodule "IoT_Module"]
+	path = IoT_Module
+	url = git@github.com:Sneha063214/tourist_app.git
