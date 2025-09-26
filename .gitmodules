@@ -4,3 +4,6 @@
 [submodule "IoT_Module"]
 	path = IoT_Module
 	url = git@github.com:Sneha063214/tourist_app.git
+[submodule "Dashboard"]
+	path = Dashboard
+	url = git@github.com:Sneha063214/dashbord_tourist.git
